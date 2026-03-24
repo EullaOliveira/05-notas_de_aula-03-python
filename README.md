@@ -11,7 +11,7 @@
 ## Notas de aula [slides pdf](/03-Funções_matemáticas.pdf)
 1. definições de:
    - **função** é um bloco de código reutilizável que executa uma tarefa específica sempre que é chamado pelo seu nome.
-   - **biblioteca de funções** é uma coleção de funções prontas que você pode importar para o seu programa para resolver tarefas comuns sem precisar escrever todo o código do zero. Bibliotecas de funções comuns em python `math`, `random` e `datetime`.
+   - **biblioteca de funções** é uma coleção de funções prontas que você pode importar para o seu programa para resolver tarefas comuns sem precisar escrever todo o código do zero. Bibliotecas de funções comuns em python [datetime](https://docs.python.org/pt-br/3.14/library/datetime.html), [math](https://docs.python.org/pt-br/3.14/library/math.html), [random](https://docs.python.org/pt-br/3.14/library/random.html) e [statistics](https://docs.python.org/pt-br/3.14/library/statistics.html).
 2. Anatomia de uma função - nome, argumentos ou parâmetros, retorno ou valor de retorno
    - input("bem vindo") -> nome `input`; argumento `"bem vindo"`; e valor de retorno será o texto digitado
 3. Algumas funções matemáticas
