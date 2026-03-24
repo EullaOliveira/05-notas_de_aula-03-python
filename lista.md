@@ -1,6 +1,9 @@
-# Lista de exercícios - Funções matemáticas em Python
+# Lista de Exercícios – Python 03
 
-Exercícios de programação em Python para alunos iniciantes utilizando as funções `min()`, `max()`, `math.sqrt()`, `math.ceil()` e `math.floor()`.
+## Informações gerais
+**Disciplina**: Introdução à Lógica e Programação  
+**Tópicos**:
+- funções matemáticas `min`, `max`, `sart`, `ceil`, `floor`
 
 ---
 
